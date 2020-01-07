@@ -28,8 +28,8 @@ Three-dimensional Morphable Models (3DMMs) are powerful statistical tools for re
 
 ## More Results
 
-<p align="center"><img width="100%" src="figures/qual_1.pdf" /></p>
-<p align="center"><img width="100%" src="figures/special_cases.pdf" /></p>
+<p align="center"><img width="100%" src="figures/qual_1.png" /></p>
+<p align="center"><img width="100%" src="figures/special_cases.png" /></p>
 
 <br/>
 
