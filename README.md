@@ -13,9 +13,6 @@
 
 <p align="center"><img width="100%" src="figures/first_page_fig.png" /></p>
 
-
-<br/>
-(This documentation is still under construction, please refer to our paper for more details)
 <br/>
 
 ## Abstract
@@ -24,16 +21,15 @@ Three-dimensional Morphable Models (3DMMs) are powerful statistical tools for re
 
 ## Approach
 
-#<p align="center"><img width="100%" src="figures/overview.png" /></p>
+<p align="center"><img width="100%" src="figures/overview.png" /></p>
 #Detailed overview of the proposed approach. A 3D face reconstruction is rendered by a differentiable renderer (shown in purple). Cost #functions are mainly formulated by means of identity features on a pretrained face recognition network (shown in gray) and they are #optimized by flowing the error all the way back to the latent parameters (ps, pe, pt, c, i, shown in green) with gradient descent #optimization. End-to-end differentiable architecture enables us to use computationally cheap and reliable first order derivatives for #optimization thus making it possible to employ deep networks as a generator (i.e,. statistical model) or as a cost function.
 
 <br/>
 
 ## More Results
 
-<p align="center"><img width="100%" src="figures/qual_fig.png" /></p>
-<p align="center"><img width="100%" src="figures/comp.png" /></p>
-<p align="center"><img width="100%" src="figures/chall.png" /></p>
+<p align="center"><img width="100%" src="figures/qual_1.pdf" /></p>
+<p align="center"><img width="100%" src="figures/special_cases.pdf" /></p>
 
 <br/>
 
