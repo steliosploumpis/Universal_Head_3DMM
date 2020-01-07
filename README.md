@@ -22,7 +22,11 @@ Three-dimensional Morphable Models (3DMMs) are powerful statistical tools for re
 ## Approach
 
 <p align="center"><img width="100%" src="figures/overview.png" /></p>
-#Detailed overview of the proposed approach. A 3D face reconstruction is rendered by a differentiable renderer (shown in purple). Cost #functions are mainly formulated by means of identity features on a pretrained face recognition network (shown in gray) and they are #optimized by flowing the error all the way back to the latent parameters (ps, pe, pt, c, i, shown in green) with gradient descent #optimization. End-to-end differentiable architecture enables us to use computationally cheap and reliable first order derivatives for #optimization thus making it possible to employ deep networks as a generator (i.e,. statistical model) or as a cost function.
+Detailed overview of our regression modeling pipeline. 1) The left part illustrates the matrix formulation from the original LYHM head model; 2) the central part demonstrates how we utilize the MeIn3D database to produce highly-detailed head shapes; 3) the final part on the right depicts the registration framework along with the per-vertex template weights and the statistical modeling.
+
+<p align="center"><img width="100%" src="figures/triangles.png" /></p>
+A graphical representation of the non-rigid registration of all mean meshes along with our head template St and the calculation of the local covariance matrix Ki,j based on the locations of the ith and jth points.
+
 
 <br/>
 
