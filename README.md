@@ -24,7 +24,7 @@ Three-dimensional Morphable Models (3DMMs) are powerful statistical tools for re
 <p align="center"><img width="100%" src="figures/overview.png" /></p>
 Detailed overview of our regression modeling pipeline. 1) The left part illustrates the matrix formulation from the original LYHM head model; 2) the central part demonstrates how we utilize the MeIn3D database to produce highly-detailed head shapes; 3) the final part on the right depicts the registration framework along with the per-vertex template weights and the statistical modeling.
 
-<p align="center"><img width="100%" src="figures/triangles.png" /></p>
+<p align="center"><img width="50%" src="figures/triangles.png" /></p>
 A graphical representation of the non-rigid registration of all mean meshes along with our head template St and the calculation of the local covariance matrix Ki,j based on the locations of the ith and jth points.
 
 
