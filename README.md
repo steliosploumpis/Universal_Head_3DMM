@@ -1,12 +1,12 @@
 # [Combining 3D Morphable Models: A Large Scale Face-And-Head Model](http://openaccess.thecvf.com/content_CVPR_2019/html/Ploumpis_Combining_3D_Morphable_Models_A_Large_Scale_Face-And-Head_Model_CVPR_2019_paper.html)
 
- [Stylianos Ploumpis](https://scholar.google.co.uk/citations?user=5hM4Ul4AAAAJ&hl=en&oi=ao)<sup> 1,2</sup>, [Haoyang Wang](https://ibug.doc.ic.ac.uk/people/hwang)<sup> 1,2</sup>, [Nick Pears](https://www-users.cs.york.ac.uk/~nep/)<sup> 3</sup>, [William A. P. Smith](https://www.cs.york.ac.uk/cvpr/member/will/)<sup> 3</sup>, & [Stefanos Zafeiriou](https://wp.doc.ic.ac.uk/szafeiri/)<sup> 1,2</sup>
+ [Stylianos Ploumpis](https://www.imperial.ac.uk/people/s.ploumpis)<sup> 1,2</sup>, [Haoyang Wang](https://ibug.doc.ic.ac.uk/people/hwang)<sup> 1,2</sup>, [Nick Pears](https://www-users.cs.york.ac.uk/~nep/)<sup> 3</sup>, [William A. P. Smith](https://www.cs.york.ac.uk/cvpr/member/will/)<sup> 3</sup>, & [Stefanos Zafeiriou](https://wp.doc.ic.ac.uk/szafeiri/)<sup> 1,2</sup>
  <br/>
- <sup>1 </sup>Imperial College London
+ <sup>1 </sup>Imperial College London, UK
  <br/>
  <sup>2 </sup>FaceSoft.io
  <br/>
- <sup>3 </sup>University of Middlesex
+ <sup>3 </sup>University of York, UK
 #### [CVPR2019]
 
 <br/>
@@ -31,9 +31,9 @@ Three-dimensional Morphable Models (3DMMs) are powerful statistical tools for re
 
 ## More Results
 
-#<p align="center"><img width="100%" src="figures/qual_fig.png" /></p>
-#<p align="center"><img width="100%" src="figures/comp.png" /></p>
-#<p align="center"><img width="100%" src="figures/chall.png" /></p>
+<p align="center"><img width="100%" src="figures/qual_fig.png" /></p>
+<p align="center"><img width="100%" src="figures/comp.png" /></p>
+<p align="center"><img width="100%" src="figures/chall.png" /></p>
 
 <br/>
 
@@ -53,5 +53,5 @@ If you find this work is useful for your research, please cite our [paper](http:
 
 <br/>
 
-## Online Demo
+## Publicly Available Head Model
 TBA
