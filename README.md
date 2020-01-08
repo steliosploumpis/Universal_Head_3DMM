@@ -52,7 +52,7 @@ If you find this work is useful for your research, please cite our [paper](http:
 
 <br/>
 
-## CFHM: public release Head Model
+## Public release of the Head Model
 The head models have been freely available for research and education purposes. To obtain access to the models, you need to complete and sign the user agreement form. This agreement should be completed by a full-time academic staff member (not a student) or a craniofacial clinician. The form should be signed, and emailed to Stylianos Ploumpis (s.ploumpis@imperial.ac.uk). We will verify your request and contact you on how to download the model package. Note that the agreement requires that:
 
 1. The models are used for non-commercial research and education purposes only.
