@@ -52,5 +52,11 @@ If you find this work is useful for your research, please cite our [paper](http:
 
 <br/>
 
-## Publicly Available Head Model
-TBA
+## CFHM: public release Head Model
+The head models have been freely available for research and education purposes. To obtain access to the models, you need to complete and sign the user agreement form. This agreement should be completed by a full-time academic staff member (not a student) or a craniofacial clinician. The form should be signed, and emailed to Stylianos Ploumpis (s.ploumpis@imperial.ac.uk). We will verify your request and contact you on how to download the model package. Note that the agreement requires that:
+
+1. The models are used for non-commercial research and education purposes only.
+2. You agree not copy, sell, trade, or exploit the model for any commercial purposes.
+3. In any published research using the models, you cite the following paper:
+
+Combining 3D Morphable Models: A Large scale Face-and-Head Model, Stylianos Ploumpis, Haoyang Wang, Nick Pears, William AP Smith, Stefanos Zafeiriou, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2019
