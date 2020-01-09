@@ -62,4 +62,6 @@ The head models have been freely available for research and education purposes. 
 Combining 3D Morphable Models: A Large scale Face-and-Head Model, Stylianos Ploumpis, Haoyang Wang, Nick Pears, William AP Smith, Stefanos Zafeiriou, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2019
 
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/fNlMGWm7bbk&t=4707s/0.jpg)](https://www.youtube.com/watch?v=fNlMGWm7bbk&t=4707s "Video Title")
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=fNlMGWm7bbk&t=4700s
+" target="_blank"><img src="http://img.youtube.com/vi/fNlMGWm7bbk&t=4700s/0.jpg" 
+alt="Oral presentation" width="240" height="180" border="10" /></a>
