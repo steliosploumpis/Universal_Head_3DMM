@@ -61,7 +61,7 @@ The head models have been freely available for research and education purposes. 
 
 Combining 3D Morphable Models: A Large scale Face-and-Head Model, Stylianos Ploumpis, Haoyang Wang, Nick Pears, William AP Smith, Stefanos Zafeiriou, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2019
 
-
+### Oral CVPR 19 presentation
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=fNlMGWm7bbk&t=4700s
 " target="_blank"><img src="figures/CVPR_pres.png"
-alt="Oral presentation" width="240" height="180" border="10" /></a>
+alt="Oral presentation" width="500" height="260" border="10" /></a>
