@@ -60,3 +60,6 @@ The head models have been freely available for research and education purposes. 
 3. In any published research using the models, you cite the following paper:
 
 Combining 3D Morphable Models: A Large scale Face-and-Head Model, Stylianos Ploumpis, Haoyang Wang, Nick Pears, William AP Smith, Stefanos Zafeiriou, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2019
+
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/fNlMGWm7bbk&t=4707s/0.jpg)](https://www.youtube.com/watch?v=fNlMGWm7bbk&t=4707s "Video Title")
