@@ -63,5 +63,5 @@ Combining 3D Morphable Models: A Large scale Face-and-Head Model, Stylianos Plou
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=fNlMGWm7bbk&t=4700s
-" target="_blank"><img src="figures/qual_1.png"
+" target="_blank"><img src="figures/CVPR_pres.png"
 alt="Oral presentation" width="240" height="180" border="10" /></a>
