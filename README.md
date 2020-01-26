@@ -64,9 +64,12 @@ The head models have been freely available for research and education purposes. 
 
 1. The models are used for non-commercial research and education purposes only.
 2. You agree not copy, sell, trade, or exploit the model for any commercial purposes.
-3. In any published research using the models, you cite the following paper:
+3. In any published research using the models, you cite the following papers:
 
 Combining 3D Morphable Models: A Large scale Face-and-Head Model, Stylianos Ploumpis, Haoyang Wang, Nick Pears, William AP Smith, Stefanos Zafeiriou, Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2019
+
+Towards a complete 3D morphable model of the human head, S.Ploumpis, E.Ververas, E.Sullivan, S.Moschoglou, H.Wang, N.Peers, W.Smith andvS.Zafeiriou, arXiv preprint 			arXiv:1911.08008
+
 
 ### Oral CVPR 19 presentation
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=fNlMGWm7bbk&t=4700s
