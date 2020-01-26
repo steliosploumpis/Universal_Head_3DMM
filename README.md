@@ -37,7 +37,7 @@ A graphical representation of the non-rigid registration of all mean meshes alon
 <br/>
 
 ## Citation
-If you find this work is useful for your research, please cite our [paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Ploumpis_Combining_3D_Morphable_Models_A_Large_Scale_Face-And-Head_Model_CVPR_2019_paper.html):
+If you find this work is useful for your research, please cite our [papers](http://openaccess.thecvf.com/content_CVPR_2019/html/Ploumpis_Combining_3D_Morphable_Models_A_Large_Scale_Face-And-Head_Model_CVPR_2019_paper.html):
 
 ```
 @inproceedings{ploumpis2019combining,
@@ -45,6 +45,13 @@ If you find this work is useful for your research, please cite our [paper](http:
   author={Ploumpis, Stylianos and Wang, Haoyang and Pears, Nick and Smith, William AP and Zafeiriou, Stefanos},
   booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
   pages={10934--10943},
+  year={2019}
+}
+
+@article{ploumpis2019towards,
+  title={Towards a complete 3D morphable model of the human head},
+  author={Ploumpis, Stylianos and Ververas, Evangelos and Sullivan, Eimear O' and Moschoglou, Stylianos and Wang, Haoyang and Pears, Nick   and Smith, William AP and Gecer, Baris and Zafeiriou, Stefanos},
+  journal={arXiv preprint arXiv:1911.08008},
   year={2019}
 }
 
