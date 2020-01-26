@@ -1,6 +1,6 @@
 # [Towards a complete 3D morphable model of the human head](https://arxiv.org/abs/1911.08008)
 
- [Stylianos Ploumpis](https://www.imperial.ac.uk/people/s.ploumpis)<sup> 1,2</sup>, [Haoyang Wang](https://ibug.doc.ic.ac.uk/people/hwang)<sup> 1,2</sup>, [Nick Pears](https://www-users.cs.york.ac.uk/~nep/)<sup> 3</sup>, [William A. P. Smith](https://www.cs.york.ac.uk/cvpr/member/will/)<sup> 3</sup>, & [Stefanos Zafeiriou](https://wp.doc.ic.ac.uk/szafeiri/)<sup> 1,2</sup>
+ [Stylianos Ploumpis](https://www.imperial.ac.uk/people/s.ploumpis)<sup> 1,2</sup>, [Evangelos Ververas](https://www.imperial.ac.uk/people/eververas)<sup> 1,2</sup>, [Eimear O'Sullivan](https://ibug.doc.ic.ac.uk/people/eo'sullivan)<sup> 1,2</sup>, [Stylianos Moschoglou](https://www.imperial.ac.uk/people/smoschoglou)<sup> 1,2</sup>, [Haoyang Wang](https://ibug.doc.ic.ac.uk/people/hwang)<sup> 1</sup>, [Nick Pears](https://www-users.cs.york.ac.uk/~nep/)<sup> 3</sup>, [William A. P. Smith](https://www.cs.york.ac.uk/cvpr/member/will/)<sup> 3</sup>, [Baris Gecer](https://ibug.doc.ic.ac.uk/people/bgecer)<sup> 1,2</sup>, & [Stefanos Zafeiriou](https://wp.doc.ic.ac.uk/szafeiri/)<sup> 1,2</sup>
  <br/>
  <sup>1 </sup>Imperial College London, UK
  <br/>
