@@ -15,6 +15,9 @@
 
 <br/>
 
+![Head 3DMM](figures/head.gif)
+
+
 ## Abstract
 
 Three-dimensional Morphable Models (3DMMs) are powerful statistical tools for representing the 3D shapes and textures of an object class. Here we present the most complete 3DMM of the human head to date that includes face, cranium, ears, eyes, teeth and tongue. To achieve this, we propose two methods for combining existing 3DMMs of different overlapping head parts: i.~use a regressor to complete missing parts of one model using the other, ii.~use the Gaussian Process framework to blend covariance matrices from multiple models. Thus we build a new combined face-and-head shape model that blends the variability and facial detail of an existing face model (the LSFM) with the full head modelling capability of an existing head model (the LYHM). Then we construct and fuse a highly-detailed ear model to extend the variation of the ear shape. Eye and eye region models are incorporated into the head model, along with basic models of the teeth, tongue and inner mouth cavity. The new model achieves state-of-the-art performance. We use our model to reconstruct full head representations from single, unconstrained images allowing us to parameterize craniofacial shape and texture, along with the ear shape, eye gaze and eye color.
@@ -31,13 +34,10 @@ A graphical representation of the non-rigid registration of all mean meshes alon
 <br/>
 
 ## Embeded Ear and Eye 3DMM
-
-<p align="center"><img width="70%" src="figures/eyes.png" /></p>
-
-<p align="center"><img width="70%" src="figures/ear_components.png" /></p>
+![Ear 3DMM](figures/ear.gif)
+![Eye 3DMM](figures/eye.gif)
 
 <br/>
-
 
 ## Head Reconstruction Results from single images
 
