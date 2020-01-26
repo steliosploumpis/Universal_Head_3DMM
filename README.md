@@ -1,4 +1,4 @@
-# [Combining 3D Morphable Models: A Large Scale Face-And-Head Model](http://openaccess.thecvf.com/content_CVPR_2019/html/Ploumpis_Combining_3D_Morphable_Models_A_Large_Scale_Face-And-Head_Model_CVPR_2019_paper.html)
+# [Towards a complete 3D morphable model of the human head](http://openaccess.thecvf.com/content_CVPR_2019/html/Ploumpis_Combining_3D_Morphable_Models_A_Large_Scale_Face-And-Head_Model_CVPR_2019_paper.html)
 
  [Stylianos Ploumpis](https://www.imperial.ac.uk/people/s.ploumpis)<sup> 1,2</sup>, [Haoyang Wang](https://ibug.doc.ic.ac.uk/people/hwang)<sup> 1,2</sup>, [Nick Pears](https://www-users.cs.york.ac.uk/~nep/)<sup> 3</sup>, [William A. P. Smith](https://www.cs.york.ac.uk/cvpr/member/will/)<sup> 3</sup>, & [Stefanos Zafeiriou](https://wp.doc.ic.ac.uk/szafeiri/)<sup> 1,2</sup>
  <br/>
@@ -53,7 +53,7 @@ If you find this work is useful for your research, please cite our [paper](http:
 <br/>
 
 ## Public release models
-The head models have been freely available for research and education purposes. To obtain access to the models, you need to complete and sign the user agreement form (can be found in this repository, user_aggrement.pdf). This agreement should be completed by a full-time academic staff member (not a student) or a craniofacial clinician. The form should be signed, and emailed to Stylianos Ploumpis (s.ploumpis@imperial.ac.uk), Nick Pears (nick.pears@york.ac.uk) and William Smith (william.smith@york.ac.uk). We will verify your request and contact you on how to download the model package. Note that the agreement requires that:
+The head models have been freely available for research and education purposes. To obtain access to the models, you need to complete and sign the user agreement form (can be found in this repository, user_agreement.pdf). This agreement should be completed by a full-time academic staff member (not a student) or a craniofacial clinician. The form should be signed, and emailed to Stylianos Ploumpis (s.ploumpis@imperial.ac.uk), Nick Pears (nick.pears@york.ac.uk). We will verify your request and contact you on how to download the model package. Note that the agreement requires that:
 
 1. The models are used for non-commercial research and education purposes only.
 2. You agree not copy, sell, trade, or exploit the model for any commercial purposes.
