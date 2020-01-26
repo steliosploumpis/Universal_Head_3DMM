@@ -80,6 +80,7 @@ Combining 3D Morphable Models: A Large scale Face-and-Head Model, Stylianos Plou
 Towards a complete 3D morphable model of the human head, S.Ploumpis, E.Ververas, E.Sullivan, S.Moschoglou, H.Wang, N.Peers, W.Smith andvS.Zafeiriou, arXiv preprint 			arXiv:1911.08008
 
 <br/>
+
 ### Oral CVPR 19 presentation
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=fNlMGWm7bbk&t=4700s
 " target="_blank"><img src="figures/CVPR_pres.png"
