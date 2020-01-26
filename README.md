@@ -7,7 +7,7 @@
  <sup>2 </sup>FaceSoft.io
  <br/>
  <sup>3 </sup>University of York, UK
-#### [CVPR2019]
+#### [CVPR2019] Extension Submited to [PAMI]
 
 <br/>
 
