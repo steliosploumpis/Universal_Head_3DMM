@@ -37,8 +37,7 @@ A graphical representation of the non-rigid registration of all mean meshes alon
 ## Embeded Ear and Eye 3DMM
 <p align="center"><img width="70%" src="figures/eyes.png" /></p>
 
-<p align="center"><img width="65%" src="figures/eye.gif" alt="Logo"></p>
-<p align="center"><img width="65%" src="figures/ear.gif" alt="Logo"></p>
+<p align="center"><img width="80%" src="figures/eye_ear.gif" alt="Logo"></p>
 
 <br/>
 
