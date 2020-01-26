@@ -15,7 +15,8 @@
 
 <br/>
 
-![Head 3DMM](figures/head.gif)
+<p align="center"><img width="65%" src="figures/head.gif" alt="Logo"></p>
+
 
 
 ## Abstract
@@ -34,8 +35,10 @@ A graphical representation of the non-rigid registration of all mean meshes alon
 <br/>
 
 ## Embeded Ear and Eye 3DMM
-![Ear 3DMM](figures/ear.gif)
-![Eye 3DMM](figures/eye.gif)
+<p align="center"><img width="70%" src="figures/eyes.png" /></p>
+
+<p align="center"><img width="65%" src="figures/eye.gif" alt="Logo"></p>
+<p align="center"><img width="65%" src="figures/ear.gif" alt="Logo"></p>
 
 <br/>
 
