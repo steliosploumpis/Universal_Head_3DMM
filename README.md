@@ -7,6 +7,9 @@
  <sup>2 </sup>FaceSoft.io
  <br/>
  <sup>3 </sup>University of York, UK
+ <br/>
+ <sup> (3D Graphic visuals by Vasilis Triantafyllou)
+ <br/>
 #### [CVPR2019] Extension Submited to [PAMI]
 
 <br/>
