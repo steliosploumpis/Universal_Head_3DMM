@@ -62,11 +62,12 @@ If you find this work is useful for your research, please cite our [papers](http
   year={2019}
 }
 
-@article{ploumpis2019towards,
+@article{ploumpis2020towards,
   title={Towards a complete 3D morphable model of the human head},
-  author={Ploumpis, Stylianos and Ververas, Evangelos and Sullivan, Eimear O' and Moschoglou, Stylianos and Wang, Haoyang and Pears, Nick   and Smith, William AP and Gecer, Baris and Zafeiriou, Stefanos},
-  journal={arXiv preprint arXiv:1911.08008},
-  year={2019}
+  author={Ploumpis, Stylianos and Ververas, Evangelos and O'Sullivan, Eimear and Moschoglou, Stylianos and Wang, Haoyang and Pears, Nick     and Smith, William and Gecer, Baris and Zafeiriou, Stefanos P},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2020},
+  publisher={IEEE}
 }
 
 ```
