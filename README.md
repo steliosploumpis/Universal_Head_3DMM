@@ -10,7 +10,7 @@
  <br/>
  <sup> (3D Graphic visuals by Vasilis Triantafyllou)
  <br/>
-#### [CVPR2019] Extension accepted in [TPAMI]
+#### [CVPR 2019] Extension in [TPAMI 2020]
 
 <br/>
 
