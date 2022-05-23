@@ -76,7 +76,7 @@ If you find this work is useful for your research, please cite our [papers](http
 <br/>
 
 ## Public release models
-The head models have been freely available for research and education purposes. To obtain access to the models, you need to complete and sign the user agreement form (can be found in this repository, user_agreement.pdf). This agreement should be completed by a full-time academic staff member (not a student) or a craniofacial clinician. The form should be signed, and emailed to Stylianos Ploumpis (s.ploumpis@imperial.ac.uk), Nick Pears (nick.pears@york.ac.uk). We will verify your request and contact you on how to download the model package. Note that the agreement requires that:
+The head models have been freely available for research and education purposes. To obtain access to the models, you need to complete and sign the user agreement form (can be found in this repository, user_agreement.pdf). This agreement should be completed by a full-time academic staff member (not a student) or a craniofacial clinician. The form should be signed, and emailed to Stylianos Ploumpis (s.ploumpis@google.com), Nick Pears (nick.pears@york.ac.uk). We will verify your request and contact you on how to download the model package. Note that the agreement requires that:
 
 1. The models are used for non-commercial research and education purposes only.
 2. You agree not copy, sell, trade, or exploit the model for any commercial purposes.
